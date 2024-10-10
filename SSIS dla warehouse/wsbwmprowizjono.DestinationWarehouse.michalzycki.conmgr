@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="wsbwmprowizjono.DestinationWarehouse.michalzycki"
+  DTS:DTSID="{F0742954-C2AB-4E4A-97AA-D92DBD683FD2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=DestinationDatabase;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS dla warehouse-{F0742954-C2AB-4E4A-97AA-D92DBD683FD2}wsbwmprowizjono.DestinationWarehouse.michalzycki;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
