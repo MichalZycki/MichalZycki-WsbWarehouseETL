@@ -175,6 +175,7 @@ $filesToDownload = @(
     @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/CustomerTransactions2019.txt"; destination="CustomerTransactions2019.txt"},
     @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/CustomerTransactions2019Load.py"; destination="CustomerTransactions2019Load.py"},
     @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/DataTableLoad.py"; destination="DataTableLoad.py"},
+    @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/DateTable.txt"; destination="DateTable.txt"},
     @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/InvoiceLines2015.txt"; destination="InvoiceLines2015.txt"},
     @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/PurchaseOrderLines2020.txt"; destination="PurchaseOrderLines2020.txt"},
     @{url="https://raw.githubusercontent.com/MichalZycki/MichalZycki-WsbWarehouseETL/refs/heads/master/SupplierTransactions2021.txt"; destination="SupplierTransactions2021.txt"}
